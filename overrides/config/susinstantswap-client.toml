@@ -1,0 +1,19 @@
+#Su's Instant Swap Configuration
+#
+#Changes take effect immediately.
+#Master switch — disable to turn off all mod functionality
+modEnabled = true
+#Long Press Threshold (ms). Range: 50~1000
+# Default: 200
+# Range: 50 ~ 1000
+holdThresholdMs = 200
+#Swap Sound
+soundEnabled = true
+#Open container or inventory, the mouse will automatically move to the bottom-right corner
+mouseReposition = false
+#In container screens, press the GUI swap key to directly swap items and close the screen
+guiSwapEnabled = false
+#Also swap empty slots
+emptySlotSwapEnabled = false
+#Debug Logging
+debug = false

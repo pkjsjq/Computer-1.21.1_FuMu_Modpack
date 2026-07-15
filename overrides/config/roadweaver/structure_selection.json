@@ -1,0 +1,33 @@
+{
+  "enabledStructures": [],
+  "enabledTags": [
+    "minecraft:village",
+    "ctov:large_village",
+    "ctov:medium_village",
+    "ctov:small_village",
+    "ctov:village",
+    "ctov:village_beach",
+    "ctov:village_christmas",
+    "ctov:village_dark_forest",
+    "ctov:village_desert",
+    "ctov:village_desert_oasis",
+    "ctov:village_jungle",
+    "ctov:village_jungle_tree",
+    "ctov:village_mesa",
+    "ctov:village_mesa_fortified",
+    "ctov:village_mountain",
+    "ctov:village_mountain_alpine",
+    "ctov:village_mushroom",
+    "ctov:village_plains",
+    "ctov:village_plains_fortified",
+    "ctov:village_savanna",
+    "ctov:village_savanna_na",
+    "ctov:village_snowy",
+    "ctov:village_swamp",
+    "ctov:village_swamp_fortified",
+    "ctov:village_taiga",
+    "ctov:village_taiga_fortified",
+    "ctov:village_underground"
+  ],
+  "useTagMode": true
+}

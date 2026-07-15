@@ -1,0 +1,12 @@
+#ButterCat Mod Configuration
+[general]
+	#Max butter count [1-1024]
+	#Default:64
+	# Default: 64
+	# Range: 1 ~ 1024
+	maxButterCount = 64
+	#Max infinite capacity [2-1024] when 4 cats
+	#Default:64
+	# Default: 64
+	# Range: 2 ~ 1024
+	maxInfiniteCapacity = 64

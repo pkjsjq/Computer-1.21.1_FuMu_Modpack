@@ -1,0 +1,14 @@
+1.21.1-NeoForge\
+├── AutoTranslationNext\
+├── config\
+├── defaultconfigs\
+├── mods\
+├── resourcepacks\
+├── saves\
+├── shaderpacks\
+├── tacz\
+├── （暂时）不能升级的模组.md
+├── 需要被转移到文件（文件夹）.txt
+├── options - 副本.txt
+└── options.txt
+（发布版要注意两个游戏核心）

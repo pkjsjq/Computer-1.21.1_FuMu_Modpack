@@ -1,0 +1,3220 @@
+{
+  "dimensions": [],
+  "structures": [
+    {
+      "id": "minecraft:ancient_city",
+      "displayName": "Ancient City",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:bastion_remnant",
+      "displayName": "Bastion Remnant",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:buried_treasure",
+      "displayName": "Buried Treasure",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:desert_pyramid",
+      "displayName": "Desert Pyramid",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:end_city",
+      "displayName": "End City",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:fortress",
+      "displayName": "Fortress",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:igloo",
+      "displayName": "Igloo",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:jungle_pyramid",
+      "displayName": "Jungle Pyramid",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:mansion",
+      "displayName": "Mansion",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:mineshaft",
+      "displayName": "Mineshaft",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:mineshaft_mesa",
+      "displayName": "Mineshaft Mesa",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:monument",
+      "displayName": "Monument",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:nether_fossil",
+      "displayName": "Nether Fossil",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:ocean_ruin_cold",
+      "displayName": "Ocean Ruin Cold",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:ocean_ruin_warm",
+      "displayName": "Ocean Ruin Warm",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:pillager_outpost",
+      "displayName": "Pillager Outpost",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:ruined_portal",
+      "displayName": "Ruined Portal",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:ruined_portal_desert",
+      "displayName": "Ruined Portal Desert",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:ruined_portal_jungle",
+      "displayName": "Ruined Portal Jungle",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:ruined_portal_mountain",
+      "displayName": "Ruined Portal Mountain",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:ruined_portal_nether",
+      "displayName": "Ruined Portal Nether",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:ruined_portal_ocean",
+      "displayName": "Ruined Portal Ocean",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:ruined_portal_swamp",
+      "displayName": "Ruined Portal Swamp",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:shipwreck",
+      "displayName": "Shipwreck",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:shipwreck_beached",
+      "displayName": "Shipwreck Beached",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:stronghold",
+      "displayName": "Stronghold",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:swamp_hut",
+      "displayName": "Swamp Hut",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:trail_ruins",
+      "displayName": "Trail Ruins",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:trial_chambers",
+      "displayName": "Trial Chambers",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:village_desert",
+      "displayName": "Village Desert",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:village_plains",
+      "displayName": "Village Plains",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:village_savanna",
+      "displayName": "Village Savanna",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:village_snowy",
+      "displayName": "Village Snowy",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "minecraft:village_taiga",
+      "displayName": "Village Taiga",
+      "isVanilla": true,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:ancient_temple",
+      "displayName": "Ancient Temple",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:ancient_vessel",
+      "displayName": "Ancient Vessel",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:arachnid_dwelling",
+      "displayName": "Arachnid Dwelling",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:ati_stoneworks",
+      "displayName": "Ati Stoneworks",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:castillo",
+      "displayName": "Castillo",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:catalonian_castle",
+      "displayName": "Catalonian Castle",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:dark_keep",
+      "displayName": "Dark Keep",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:dark_tower",
+      "displayName": "Dark Tower",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:deepslate_keep",
+      "displayName": "Deepslate Keep",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:desert_outpost",
+      "displayName": "Desert Outpost",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:dojo",
+      "displayName": "Dojo",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:fortified_temple",
+      "displayName": "Fortified Temple",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:gnome_hut",
+      "displayName": "Gnome Hut",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:granite_fort",
+      "displayName": "Granite Fort",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:haunted_ruin",
+      "displayName": "Haunted Ruin",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:herobrine_stronghold",
+      "displayName": "Herobrine Stronghold",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:ice_tribe",
+      "displayName": "Ice Tribe",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:illager_homestead",
+      "displayName": "Illager Homestead",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:illager_tower",
+      "displayName": "Illager Tower",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:jungle_grotto",
+      "displayName": "Jungle Grotto",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:jungle_settlement",
+      "displayName": "Jungle Settlement",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:lighthouse",
+      "displayName": "Lighthouse",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:manor",
+      "displayName": "Manor",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:marble_chateau",
+      "displayName": "Marble Chateau",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:monastery_tower",
+      "displayName": "Monastery Tower",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:mosque",
+      "displayName": "Mosque",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:mud_tower",
+      "displayName": "Mud Tower",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:nomadic_camp",
+      "displayName": "Nomadic Camp",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:old_fort",
+      "displayName": "Old Fort",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:old_home",
+      "displayName": "Old Home",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:old_residence",
+      "displayName": "Old Residence",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:overgrown_outpost",
+      "displayName": "Overgrown Outpost",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:pufferfish_cave",
+      "displayName": "Pufferfish Cave",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:quarry",
+      "displayName": "Quarry",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:rotten_log",
+      "displayName": "Rotten Log",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:rotting_temple",
+      "displayName": "Rotting Temple",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:rotting_temple_underground",
+      "displayName": "Rotting Temple Underground",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:ruined_castle",
+      "displayName": "Ruined Castle",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:sculk_deposit",
+      "displayName": "Sculk Deposit",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:silverfish_nest",
+      "displayName": "Silverfish Nest",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:sinking_temple",
+      "displayName": "Sinking Temple",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:small_keep",
+      "displayName": "Small Keep",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:spider_nest",
+      "displayName": "Spider Nest",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:steam_house",
+      "displayName": "Steam House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:storage_house",
+      "displayName": "Storage House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:storage_shack",
+      "displayName": "Storage Shack",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:stray_ruins",
+      "displayName": "Stray Ruins",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:tavern",
+      "displayName": "Tavern",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:underground_monument",
+      "displayName": "Underground Monument",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:underwater_dungeon",
+      "displayName": "Underwater Dungeon",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:villager_inn",
+      "displayName": "Villager Inn",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:warden_monument",
+      "displayName": "Warden Monument",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:wither_cavern",
+      "displayName": "Wither Cavern",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:wither_keep",
+      "displayName": "Wither Keep",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ati_structures:woodland_keep",
+      "displayName": "Woodland Keep",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:big_windmill",
+      "displayName": "Big Windmill",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:birch_structures",
+      "displayName": "Birch Structures",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:cave_ruins",
+      "displayName": "Cave Ruins",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:cherry_house",
+      "displayName": "Cherry House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:dark_forest_house",
+      "displayName": "Dark Forest House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:dungeon_desert",
+      "displayName": "Dungeon Desert",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:dungeon_jungle",
+      "displayName": "Dungeon Jungle",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:dungeon_plains",
+      "displayName": "Dungeon Plains",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:dungeon_snow",
+      "displayName": "Dungeon Snow",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:grot",
+      "displayName": "Grot",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:jungle_well",
+      "displayName": "Jungle Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:kings_castle",
+      "displayName": "Kings Castle",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:mangrove_structures",
+      "displayName": "Mangrove Structures",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:nether_roof_house",
+      "displayName": "Nether Roof House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:oak_house",
+      "displayName": "Oak House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:oil_rig",
+      "displayName": "Oil Rig",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:pillage",
+      "displayName": "Pillage",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:plains_small",
+      "displayName": "Plains Small",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:quarry",
+      "displayName": "Quarry",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:railroad",
+      "displayName": "Railroad",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:ruins",
+      "displayName": "Ruins",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:sand_house",
+      "displayName": "Sand House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:snow_fort",
+      "displayName": "Snow Fort",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:spruce_structures",
+      "displayName": "Spruce Structures",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:the_bunker",
+      "displayName": "The Bunker",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:thecastle",
+      "displayName": "Thecastle",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "create_ltab:water_pre",
+      "displayName": "Water Pre",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_beach",
+      "displayName": "Large/village Beach",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_christmas",
+      "displayName": "Large/village Christmas",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_dark_forest",
+      "displayName": "Large/village Dark Forest",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_desert",
+      "displayName": "Large/village Desert",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_desert_oasis",
+      "displayName": "Large/village Desert Oasis",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_jungle",
+      "displayName": "Large/village Jungle",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_jungle_tree",
+      "displayName": "Large/village Jungle Tree",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_mesa",
+      "displayName": "Large/village Mesa",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_mesa_fortified",
+      "displayName": "Large/village Mesa Fortified",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_mountain",
+      "displayName": "Large/village Mountain",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_mountain_alpine",
+      "displayName": "Large/village Mountain Alpine",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_mushroom",
+      "displayName": "Large/village Mushroom",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_plains",
+      "displayName": "Large/village Plains",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_plains_fortified",
+      "displayName": "Large/village Plains Fortified",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_savanna",
+      "displayName": "Large/village Savanna",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_savanna_na",
+      "displayName": "Large/village Savanna Na",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_snowy_igloo",
+      "displayName": "Large/village Snowy Igloo",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_swamp",
+      "displayName": "Large/village Swamp",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_swamp_fortified",
+      "displayName": "Large/village Swamp Fortified",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_taiga",
+      "displayName": "Large/village Taiga",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_taiga_fortified",
+      "displayName": "Large/village Taiga Fortified",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:large/village_underground",
+      "displayName": "Large/village Underground",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_beach",
+      "displayName": "Medium/village Beach",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_christmas",
+      "displayName": "Medium/village Christmas",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_dark_forest",
+      "displayName": "Medium/village Dark Forest",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_desert",
+      "displayName": "Medium/village Desert",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_desert_oasis",
+      "displayName": "Medium/village Desert Oasis",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_jungle",
+      "displayName": "Medium/village Jungle",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_jungle_tree",
+      "displayName": "Medium/village Jungle Tree",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_mesa",
+      "displayName": "Medium/village Mesa",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_mesa_fortified",
+      "displayName": "Medium/village Mesa Fortified",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_mountain",
+      "displayName": "Medium/village Mountain",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_mountain_alpine",
+      "displayName": "Medium/village Mountain Alpine",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_mushroom",
+      "displayName": "Medium/village Mushroom",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_plains",
+      "displayName": "Medium/village Plains",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_plains_fortified",
+      "displayName": "Medium/village Plains Fortified",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_savanna",
+      "displayName": "Medium/village Savanna",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_savanna_na",
+      "displayName": "Medium/village Savanna Na",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_snowy_igloo",
+      "displayName": "Medium/village Snowy Igloo",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_swamp",
+      "displayName": "Medium/village Swamp",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_swamp_fortified",
+      "displayName": "Medium/village Swamp Fortified",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_taiga",
+      "displayName": "Medium/village Taiga",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_taiga_fortified",
+      "displayName": "Medium/village Taiga Fortified",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:medium/village_underground",
+      "displayName": "Medium/village Underground",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:pillager_outpost_badlands",
+      "displayName": "Pillager Outpost Badlands",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:pillager_outpost_beach",
+      "displayName": "Pillager Outpost Beach",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:pillager_outpost_dark_forest",
+      "displayName": "Pillager Outpost Dark Forest",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:pillager_outpost_desert",
+      "displayName": "Pillager Outpost Desert",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:pillager_outpost_jungle",
+      "displayName": "Pillager Outpost Jungle",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:pillager_outpost_mesa",
+      "displayName": "Pillager Outpost Mesa",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:pillager_outpost_mountain",
+      "displayName": "Pillager Outpost Mountain",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:pillager_outpost_plains",
+      "displayName": "Pillager Outpost Plains",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:pillager_outpost_savanna",
+      "displayName": "Pillager Outpost Savanna",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:pillager_outpost_snowy",
+      "displayName": "Pillager Outpost Snowy",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:pillager_outpost_swamp",
+      "displayName": "Pillager Outpost Swamp",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:pillager_outpost_taiga",
+      "displayName": "Pillager Outpost Taiga",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_beach",
+      "displayName": "Small/village Beach",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_christmas",
+      "displayName": "Small/village Christmas",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_dark_forest",
+      "displayName": "Small/village Dark Forest",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_desert",
+      "displayName": "Small/village Desert",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_desert_oasis",
+      "displayName": "Small/village Desert Oasis",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_jungle",
+      "displayName": "Small/village Jungle",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_jungle_tree",
+      "displayName": "Small/village Jungle Tree",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_mesa",
+      "displayName": "Small/village Mesa",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_mesa_fortified",
+      "displayName": "Small/village Mesa Fortified",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_mountain",
+      "displayName": "Small/village Mountain",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_mountain_alpine",
+      "displayName": "Small/village Mountain Alpine",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_mushroom",
+      "displayName": "Small/village Mushroom",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_plains",
+      "displayName": "Small/village Plains",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_plains_fortified",
+      "displayName": "Small/village Plains Fortified",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_savanna",
+      "displayName": "Small/village Savanna",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_savanna_na",
+      "displayName": "Small/village Savanna Na",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_snowy_igloo",
+      "displayName": "Small/village Snowy Igloo",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_swamp",
+      "displayName": "Small/village Swamp",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_swamp_fortified",
+      "displayName": "Small/village Swamp Fortified",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_taiga",
+      "displayName": "Small/village Taiga",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_taiga_fortified",
+      "displayName": "Small/village Taiga Fortified",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "ctov:small/village_underground",
+      "displayName": "Small/village Underground",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:astral_hideaway",
+      "displayName": "Astral Hideaway",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:astral_meteorite",
+      "displayName": "Astral Meteorite",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:ender_spire",
+      "displayName": "Ender Spire",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:enderbloom_grove",
+      "displayName": "Enderbloom Grove",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:enderkeep_courtyard",
+      "displayName": "Enderkeep Courtyard",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:enderpin_spikes",
+      "displayName": "Enderpin Spikes",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:enderskog",
+      "displayName": "Enderskog",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:enderwatch_tower",
+      "displayName": "Enderwatch Tower",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:endscraps",
+      "displayName": "Endscraps",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:manuscript_shrine",
+      "displayName": "Manuscript Shrine",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:mega_ship",
+      "displayName": "Mega Ship",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:mega_ship_basic",
+      "displayName": "Mega Ship Basic",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:mega_ship_crashed",
+      "displayName": "Mega Ship Crashed",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:mega_ship_crashed_2",
+      "displayName": "Mega Ship Crashed 2",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:mega_ship_crashed_deepslate",
+      "displayName": "Mega Ship Crashed Deepslate",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:mega_ship_deepslate",
+      "displayName": "Mega Ship Deepslate",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:mega_ship_deepslate_2",
+      "displayName": "Mega Ship Deepslate 2",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:mega_ship_deepslate_3",
+      "displayName": "Mega Ship Deepslate 3",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:monolith",
+      "displayName": "Monolith",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:mystical_archway",
+      "displayName": "Mystical Archway",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:mythic_garden",
+      "displayName": "Mythic Garden",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:phantom_citadel",
+      "displayName": "Phantom Citadel",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:placid_prairie",
+      "displayName": "Placid Prairie",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:ruined_pillar",
+      "displayName": "Ruined Pillar",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mes:starlight_voyager",
+      "displayName": "Starlight Voyager",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:bridge_1",
+      "displayName": "Bridge 1",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:bridge_2",
+      "displayName": "Bridge 2",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:bridge_3",
+      "displayName": "Bridge 3",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:bridge_4",
+      "displayName": "Bridge 4",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:bridge_5",
+      "displayName": "Bridge 5",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:bridge_6",
+      "displayName": "Bridge 6",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:circle_blackstone",
+      "displayName": "Circle Blackstone",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:circle_nether_brick",
+      "displayName": "Circle Nether Brick",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:copper_tower",
+      "displayName": "Copper Tower",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:crimson_forge",
+      "displayName": "Crimson Forge",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:crimson_lava_well",
+      "displayName": "Crimson Lava Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:dragon_arena",
+      "displayName": "Dragon Arena",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:giant_skull",
+      "displayName": "Giant Skull",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:grave_yard",
+      "displayName": "Grave Yard",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:large_arena",
+      "displayName": "Large Arena",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:large_blackstone_pillars",
+      "displayName": "Large Blackstone Pillars",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:large_blackstone_walls",
+      "displayName": "Large Blackstone Walls",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:large_house_1",
+      "displayName": "Large House 1",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:large_nether_brick",
+      "displayName": "Large Nether Brick",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:lava_pool",
+      "displayName": "Lava Pool",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:leafy_rubble",
+      "displayName": "Leafy Rubble",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:medium_blackstone",
+      "displayName": "Medium Blackstone",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:medium_crimson_fungus",
+      "displayName": "Medium Crimson Fungus",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:medium_crimson_fungus_2",
+      "displayName": "Medium Crimson Fungus 2",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:medium_crimson_well",
+      "displayName": "Medium Crimson Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:medium_house",
+      "displayName": "Medium House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:medium_house_2",
+      "displayName": "Medium House 2",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:medium_warped_fungus",
+      "displayName": "Medium Warped Fungus",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:medium_warped_fungus_2",
+      "displayName": "Medium Warped Fungus 2",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:medium_warped_well",
+      "displayName": "Medium Warped Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:mega_fortress",
+      "displayName": "Mega Fortress",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:nether_tower",
+      "displayName": "Nether Tower",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:nether_wart_farm",
+      "displayName": "Nether Wart Farm",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:ruined_portal",
+      "displayName": "Ruined Portal",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:sandy_skull",
+      "displayName": "Sandy Skull",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:shrine",
+      "displayName": "Shrine",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:small_arena",
+      "displayName": "Small Arena",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:small_nether_brick",
+      "displayName": "Small Nether Brick",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:smoking_shrine",
+      "displayName": "Smoking Shrine",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:soul_fire",
+      "displayName": "Soul Fire",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:sword",
+      "displayName": "Sword",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:train",
+      "displayName": "Train",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:very_small_blackstone",
+      "displayName": "Very Small Blackstone",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:very_small_blackstone_2",
+      "displayName": "Very Small Blackstone 2",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:very_small_blackstone_3",
+      "displayName": "Very Small Blackstone 3",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:very_small_blackstone_4",
+      "displayName": "Very Small Blackstone 4",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:very_small_nether_brick",
+      "displayName": "Very Small Nether Brick",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:very_small_nether_brick_2",
+      "displayName": "Very Small Nether Brick 2",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:very_small_nether_brick_3",
+      "displayName": "Very Small Nether Brick 3",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:warped_dome",
+      "displayName": "Warped Dome",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:warped_house",
+      "displayName": "Warped House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mns:warped_pool",
+      "displayName": "Warped Pool",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:acacia_log_pile",
+      "displayName": "Acacia Log Pile",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:acacia_tree",
+      "displayName": "Acacia Tree",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:acacia_well",
+      "displayName": "Acacia Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:azelea_house",
+      "displayName": "Azelea House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:barn",
+      "displayName": "Barn",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:beach_bar",
+      "displayName": "Beach Bar",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:bee_dome",
+      "displayName": "Bee Dome",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:bench",
+      "displayName": "Bench",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:big_oak_tree",
+      "displayName": "Big Oak Tree",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:birch_log_pile",
+      "displayName": "Birch Log Pile",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:birch_tree",
+      "displayName": "Birch Tree",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:birch_well",
+      "displayName": "Birch Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:blue_stall",
+      "displayName": "Blue Stall",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:boulder",
+      "displayName": "Boulder",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:campsite",
+      "displayName": "Campsite",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:cart",
+      "displayName": "Cart",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:cartographer_tower",
+      "displayName": "Cartographer Tower",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:castle_ruins",
+      "displayName": "Castle Ruins",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:cathedral",
+      "displayName": "Cathedral",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:cherry_tree",
+      "displayName": "Cherry Tree",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:crimson_enchanting_table",
+      "displayName": "Crimson Enchanting Table",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:crystal",
+      "displayName": "Crystal",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:dark_oak_log_pile",
+      "displayName": "Dark Oak Log Pile",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:dark_oak_tree",
+      "displayName": "Dark Oak Tree",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:dark_oak_well",
+      "displayName": "Dark Oak Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:dead_tree_acacia",
+      "displayName": "Dead Tree Acacia",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:dead_tree_birch",
+      "displayName": "Dead Tree Birch",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:dead_tree_cherry",
+      "displayName": "Dead Tree Cherry",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:dead_tree_dark_oak",
+      "displayName": "Dead Tree Dark Oak",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:dead_tree_jungle",
+      "displayName": "Dead Tree Jungle",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:dead_tree_mangrove",
+      "displayName": "Dead Tree Mangrove",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:dead_tree_oak",
+      "displayName": "Dead Tree Oak",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:dead_tree_spruce",
+      "displayName": "Dead Tree Spruce",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:deepslate_house",
+      "displayName": "Deepslate House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:desert_house",
+      "displayName": "Desert House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:desert_pump",
+      "displayName": "Desert Pump",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:desert_well",
+      "displayName": "Desert Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:duck",
+      "displayName": "Duck",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:end_scraps_1",
+      "displayName": "End Scraps 1",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:end_scraps_2",
+      "displayName": "End Scraps 2",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:end_scraps_3",
+      "displayName": "End Scraps 3",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:end_scraps_4",
+      "displayName": "End Scraps 4",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:end_well",
+      "displayName": "End Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:fire_camp",
+      "displayName": "Fire Camp",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:floating_islands",
+      "displayName": "Floating Islands",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:flower_hole",
+      "displayName": "Flower Hole",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:fox_hut",
+      "displayName": "Fox Hut",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:gallows",
+      "displayName": "Gallows",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:haystack",
+      "displayName": "Haystack",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:horse_campsite",
+      "displayName": "Horse Campsite",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:horse_pen",
+      "displayName": "Horse Pen",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:house",
+      "displayName": "House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:jungle_log_pile",
+      "displayName": "Jungle Log Pile",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:jungle_palm_tree",
+      "displayName": "Jungle Palm Tree",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:jungle_tower",
+      "displayName": "Jungle Tower",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:jungle_tree",
+      "displayName": "Jungle Tree",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:jungle_well",
+      "displayName": "Jungle Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:lamp_chest",
+      "displayName": "Lamp Chest",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:large_cart_1",
+      "displayName": "Large Cart 1",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:large_cart_2",
+      "displayName": "Large Cart 2",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:large_floating_island",
+      "displayName": "Large Floating Island",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:large_mushroom",
+      "displayName": "Large Mushroom",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:large_warped_tower",
+      "displayName": "Large Warped Tower",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:lecturn_garden",
+      "displayName": "Lecturn Garden",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:log_ruin",
+      "displayName": "Log Ruin",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:medium_bamboo_cart",
+      "displayName": "Medium Bamboo Cart",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:medium_igloo_1",
+      "displayName": "Medium Igloo 1",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:medium_oak_lantern",
+      "displayName": "Medium Oak Lantern",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:mine_with_campsite",
+      "displayName": "Mine With Campsite",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:mineshaft",
+      "displayName": "Mineshaft",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:mushroom_pond",
+      "displayName": "Mushroom Pond",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:mushroom_statue",
+      "displayName": "Mushroom Statue",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:mushroom_well",
+      "displayName": "Mushroom Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:nether_devil",
+      "displayName": "Nether Devil",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:nether_well",
+      "displayName": "Nether Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:oak_log_pile",
+      "displayName": "Oak Log Pile",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:oak_tree",
+      "displayName": "Oak Tree",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:oak_well",
+      "displayName": "Oak Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:ocean_tower",
+      "displayName": "Ocean Tower",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:orange_stall",
+      "displayName": "Orange Stall",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:out_house",
+      "displayName": "Out House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:paths",
+      "displayName": "Paths",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:pile",
+      "displayName": "Pile",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:pink_stall",
+      "displayName": "Pink Stall",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:railway",
+      "displayName": "Railway",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:rare_well",
+      "displayName": "Rare Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:red_stall",
+      "displayName": "Red Stall",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:red_tower",
+      "displayName": "Red Tower",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:rocky_well",
+      "displayName": "Rocky Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:ruined_beacon",
+      "displayName": "Ruined Beacon",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:shed",
+      "displayName": "Shed",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_acacia_lantern",
+      "displayName": "Small Acacia Lantern",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_bamboo_lantern",
+      "displayName": "Small Bamboo Lantern",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_birch_lantern",
+      "displayName": "Small Birch Lantern",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_campfire_lantern",
+      "displayName": "Small Campfire Lantern",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_cherry_lantern",
+      "displayName": "Small Cherry Lantern",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_copper_well",
+      "displayName": "Small Copper Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_dark_oak_lantern",
+      "displayName": "Small Dark Oak Lantern",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_igloo",
+      "displayName": "Small Igloo",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_jungle_lantern",
+      "displayName": "Small Jungle Lantern",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_mangrove_lantern",
+      "displayName": "Small Mangrove Lantern",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_oak_lantern",
+      "displayName": "Small Oak Lantern",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_oak_pond",
+      "displayName": "Small Oak Pond",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_pillager_tower",
+      "displayName": "Small Pillager Tower",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_ruin",
+      "displayName": "Small Ruin",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_ship",
+      "displayName": "Small Ship",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_spruce_lantern",
+      "displayName": "Small Spruce Lantern",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_swamp_house",
+      "displayName": "Small Swamp House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_tower_well",
+      "displayName": "Small Tower Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:small_well",
+      "displayName": "Small Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:snowy_dog_hut",
+      "displayName": "Snowy Dog Hut",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:snowy_fossil",
+      "displayName": "Snowy Fossil",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:snowy_well",
+      "displayName": "Snowy Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:spruce_log_pile",
+      "displayName": "Spruce Log Pile",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:spruce_tree",
+      "displayName": "Spruce Tree",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:spruce_well",
+      "displayName": "Spruce Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:statue_ruins",
+      "displayName": "Statue Ruins",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:stone_fountain",
+      "displayName": "Stone Fountain",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:stone_pillars",
+      "displayName": "Stone Pillars",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:stone_rock",
+      "displayName": "Stone Rock",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:sunzi_gate",
+      "displayName": "Sunzi Gate",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:tall_house",
+      "displayName": "Tall House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:tree_monument",
+      "displayName": "Tree Monument",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:villager_statue",
+      "displayName": "Villager Statue",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:warped_house",
+      "displayName": "Warped House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:well",
+      "displayName": "Well",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:wheat_grain_bin",
+      "displayName": "Wheat Grain Bin",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:windmill",
+      "displayName": "Windmill",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "mvs:wooden_wheat_farm",
+      "displayName": "Wooden Wheat Farm",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:bridge_bridge_0",
+      "displayName": "Bridge Bridge 0",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:bridge_bridge_1",
+      "displayName": "Bridge Bridge 1",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:roadside_bench",
+      "displayName": "Roadside Bench",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:roadside_campfire",
+      "displayName": "Roadside Campfire",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:roadside_campsite_1",
+      "displayName": "Roadside Campsite 1",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:roadside_campsite_2",
+      "displayName": "Roadside Campsite 2",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:roadside_campsite_3",
+      "displayName": "Roadside Campsite 3",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:roadside_grave_easter_egg",
+      "displayName": "Roadside Grave Easter Egg",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:roadside_grave_fogg05",
+      "displayName": "Roadside Grave Fogg05",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:roadside_grave_magic_muggle",
+      "displayName": "Roadside Grave Magic Muggle",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:roadside_grave_notch",
+      "displayName": "Roadside Grave Notch",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:roadside_grave_technoblade",
+      "displayName": "Roadside Grave Technoblade",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:roadside_maid_house",
+      "displayName": "Roadside Maid House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:roadside_sakura_coffee_house",
+      "displayName": "Roadside Sakura Coffee House",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:spawn_cabin",
+      "displayName": "Spawn Cabin",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:stone_bridge_shiqiao",
+      "displayName": "Stone Bridge Shiqiao",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:wood_bridge_hongshu",
+      "displayName": "Wood Bridge Hongshu",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:wood_bridge_huamu",
+      "displayName": "Wood Bridge Huamu",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:wood_bridge_jinhehuan",
+      "displayName": "Wood Bridge Jinhehuan",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:wood_bridge_shensexiangmu",
+      "displayName": "Wood Bridge Shensexiangmu",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:wood_bridge_yinghuamu",
+      "displayName": "Wood Bridge Yinghuamu",
+      "isVanilla": false,
+      "dimensions": []
+    },
+    {
+      "id": "roadweaver:wood_bridge_zhuzi",
+      "displayName": "Wood Bridge Zhuzi",
+      "isVanilla": false,
+      "dimensions": []
+    }
+  ],
+  "tags": [
+    {
+      "tagId": "minecraft:cats_spawn_as_black",
+      "displayName": "#Cats Spawn As Black",
+      "structureIds": [
+        "minecraft:swamp_hut"
+      ]
+    },
+    {
+      "tagId": "minecraft:cats_spawn_in",
+      "displayName": "#Cats Spawn In",
+      "structureIds": [
+        "minecraft:swamp_hut"
+      ]
+    },
+    {
+      "tagId": "minecraft:dolphin_located",
+      "displayName": "#Dolphin Located",
+      "structureIds": [
+        "minecraft:ocean_ruin_cold",
+        "minecraft:ocean_ruin_warm",
+        "minecraft:shipwreck",
+        "minecraft:shipwreck_beached"
+      ]
+    },
+    {
+      "tagId": "minecraft:eye_of_ender_located",
+      "displayName": "#Eye Of Ender Located",
+      "structureIds": [
+        "minecraft:stronghold"
+      ]
+    },
+    {
+      "tagId": "minecraft:mineshaft",
+      "displayName": "#Mineshaft",
+      "structureIds": [
+        "minecraft:mineshaft",
+        "minecraft:mineshaft_mesa"
+      ]
+    },
+    {
+      "tagId": "minecraft:ocean_ruin",
+      "displayName": "#Ocean Ruin",
+      "structureIds": [
+        "minecraft:ocean_ruin_cold",
+        "minecraft:ocean_ruin_warm"
+      ]
+    },
+    {
+      "tagId": "minecraft:on_ocean_explorer_maps",
+      "displayName": "#On Ocean Explorer Maps",
+      "structureIds": [
+        "minecraft:monument"
+      ]
+    },
+    {
+      "tagId": "minecraft:on_treasure_maps",
+      "displayName": "#On Treasure Maps",
+      "structureIds": [
+        "minecraft:buried_treasure"
+      ]
+    },
+    {
+      "tagId": "minecraft:on_trial_chambers_maps",
+      "displayName": "#On Trial Chambers Maps",
+      "structureIds": [
+        "minecraft:trial_chambers"
+      ]
+    },
+    {
+      "tagId": "minecraft:on_woodland_explorer_maps",
+      "displayName": "#On Woodland Explorer Maps",
+      "structureIds": [
+        "minecraft:mansion"
+      ]
+    },
+    {
+      "tagId": "minecraft:ruined_portal",
+      "displayName": "#Ruined Portal",
+      "structureIds": [
+        "minecraft:ruined_portal",
+        "minecraft:ruined_portal_desert",
+        "minecraft:ruined_portal_jungle",
+        "minecraft:ruined_portal_mountain",
+        "minecraft:ruined_portal_nether",
+        "minecraft:ruined_portal_ocean",
+        "minecraft:ruined_portal_swamp"
+      ]
+    },
+    {
+      "tagId": "minecraft:shipwreck",
+      "displayName": "#Shipwreck",
+      "structureIds": [
+        "minecraft:shipwreck",
+        "minecraft:shipwreck_beached"
+      ]
+    },
+    {
+      "tagId": "minecraft:village",
+      "displayName": "#Village",
+      "structureIds": [
+        "minecraft:village_desert",
+        "minecraft:village_plains",
+        "minecraft:village_savanna",
+        "minecraft:village_snowy",
+        "minecraft:village_taiga",
+        "ctov:large/village_beach",
+        "ctov:large/village_christmas",
+        "ctov:large/village_dark_forest",
+        "ctov:large/village_desert",
+        "ctov:large/village_desert_oasis",
+        "ctov:large/village_jungle",
+        "ctov:large/village_jungle_tree",
+        "ctov:large/village_mesa",
+        "ctov:large/village_mesa_fortified",
+        "ctov:large/village_mountain",
+        "ctov:large/village_mountain_alpine",
+        "ctov:large/village_mushroom",
+        "ctov:large/village_plains",
+        "ctov:large/village_plains_fortified",
+        "ctov:large/village_savanna",
+        "ctov:large/village_savanna_na",
+        "ctov:large/village_snowy_igloo",
+        "ctov:large/village_swamp",
+        "ctov:large/village_swamp_fortified",
+        "ctov:large/village_taiga",
+        "ctov:large/village_taiga_fortified",
+        "ctov:medium/village_beach",
+        "ctov:medium/village_christmas",
+        "ctov:medium/village_dark_forest",
+        "ctov:medium/village_desert",
+        "ctov:medium/village_desert_oasis",
+        "ctov:medium/village_jungle",
+        "ctov:medium/village_jungle_tree",
+        "ctov:medium/village_mesa",
+        "ctov:medium/village_mesa_fortified",
+        "ctov:medium/village_mountain",
+        "ctov:medium/village_mountain_alpine",
+        "ctov:medium/village_mushroom",
+        "ctov:medium/village_plains",
+        "ctov:medium/village_plains_fortified",
+        "ctov:medium/village_savanna",
+        "ctov:medium/village_savanna_na",
+        "ctov:medium/village_snowy_igloo",
+        "ctov:medium/village_swamp",
+        "ctov:medium/village_swamp_fortified",
+        "ctov:medium/village_taiga",
+        "ctov:medium/village_taiga_fortified",
+        "ctov:small/village_beach",
+        "ctov:small/village_christmas",
+        "ctov:small/village_dark_forest",
+        "ctov:small/village_desert",
+        "ctov:small/village_desert_oasis",
+        "ctov:small/village_jungle",
+        "ctov:small/village_jungle_tree",
+        "ctov:small/village_mesa",
+        "ctov:small/village_mesa_fortified",
+        "ctov:small/village_mountain",
+        "ctov:small/village_mountain_alpine",
+        "ctov:small/village_mushroom",
+        "ctov:small/village_plains",
+        "ctov:small/village_plains_fortified",
+        "ctov:small/village_savanna",
+        "ctov:small/village_savanna_na",
+        "ctov:small/village_snowy_igloo",
+        "ctov:small/village_swamp",
+        "ctov:small/village_swamp_fortified",
+        "ctov:small/village_taiga",
+        "ctov:small/village_taiga_fortified"
+      ]
+    },
+    {
+      "tagId": "create_ltab:core",
+      "displayName": "#Core",
+      "structureIds": [
+        "create_ltab:dungeon_desert",
+        "create_ltab:dungeon_jungle",
+        "create_ltab:dungeon_plains",
+        "create_ltab:dungeon_snow",
+        "create_ltab:grot",
+        "create_ltab:quarry"
+      ]
+    },
+    {
+      "tagId": "create_ltab:kings_castle",
+      "displayName": "#Kings Castle",
+      "structureIds": [
+        "create_ltab:kings_castle"
+      ]
+    },
+    {
+      "tagId": "ctov:large_village",
+      "displayName": "#Large Village",
+      "structureIds": [
+        "ctov:large/village_beach",
+        "ctov:large/village_christmas",
+        "ctov:large/village_dark_forest",
+        "ctov:large/village_desert",
+        "ctov:large/village_desert_oasis",
+        "ctov:large/village_jungle",
+        "ctov:large/village_jungle_tree",
+        "ctov:large/village_mesa",
+        "ctov:large/village_mesa_fortified",
+        "ctov:large/village_mountain",
+        "ctov:large/village_mountain_alpine",
+        "ctov:large/village_mushroom",
+        "ctov:large/village_plains",
+        "ctov:large/village_plains_fortified",
+        "ctov:large/village_savanna",
+        "ctov:large/village_savanna_na",
+        "ctov:large/village_snowy_igloo",
+        "ctov:large/village_swamp",
+        "ctov:large/village_swamp_fortified",
+        "ctov:large/village_taiga",
+        "ctov:large/village_taiga_fortified"
+      ]
+    },
+    {
+      "tagId": "ctov:medium_village",
+      "displayName": "#Medium Village",
+      "structureIds": [
+        "ctov:medium/village_beach",
+        "ctov:medium/village_christmas",
+        "ctov:medium/village_dark_forest",
+        "ctov:medium/village_desert",
+        "ctov:medium/village_desert_oasis",
+        "ctov:medium/village_jungle",
+        "ctov:medium/village_jungle_tree",
+        "ctov:medium/village_mesa",
+        "ctov:medium/village_mesa_fortified",
+        "ctov:medium/village_mountain",
+        "ctov:medium/village_mountain_alpine",
+        "ctov:medium/village_mushroom",
+        "ctov:medium/village_plains",
+        "ctov:medium/village_plains_fortified",
+        "ctov:medium/village_savanna",
+        "ctov:medium/village_savanna_na",
+        "ctov:medium/village_snowy_igloo",
+        "ctov:medium/village_swamp",
+        "ctov:medium/village_swamp_fortified",
+        "ctov:medium/village_taiga",
+        "ctov:medium/village_taiga_fortified"
+      ]
+    },
+    {
+      "tagId": "moogs_structures:no_basalt",
+      "displayName": "#No Basalt",
+      "structureIds": [
+        "mns:bridge_1",
+        "mns:bridge_2",
+        "mns:bridge_3",
+        "mns:bridge_4",
+        "mns:bridge_5",
+        "mns:bridge_6",
+        "mns:circle_blackstone",
+        "mns:circle_nether_brick",
+        "mns:copper_tower",
+        "mns:crimson_forge",
+        "mns:crimson_lava_well",
+        "mns:dragon_arena",
+        "mns:giant_skull",
+        "mns:grave_yard",
+        "mns:large_arena",
+        "mns:large_blackstone_pillars",
+        "mns:large_blackstone_walls",
+        "mns:large_house_1",
+        "mns:large_nether_brick",
+        "mns:lava_pool",
+        "mns:leafy_rubble",
+        "mns:medium_blackstone",
+        "mns:medium_crimson_fungus",
+        "mns:medium_crimson_fungus_2",
+        "mns:medium_crimson_well",
+        "mns:medium_house",
+        "mns:medium_house_2",
+        "mns:medium_warped_fungus",
+        "mns:medium_warped_fungus_2",
+        "mns:medium_warped_well",
+        "mns:mega_fortress",
+        "mns:nether_tower",
+        "mns:nether_wart_farm",
+        "mns:ruined_portal",
+        "mns:sandy_skull",
+        "mns:shrine",
+        "mns:small_arena",
+        "mns:small_nether_brick",
+        "mns:smoking_shrine",
+        "mns:soul_fire",
+        "mns:sword",
+        "mns:train",
+        "mns:very_small_blackstone",
+        "mns:very_small_blackstone_2",
+        "mns:very_small_blackstone_3",
+        "mns:very_small_blackstone_4",
+        "mns:very_small_nether_brick",
+        "mns:very_small_nether_brick_2",
+        "mns:very_small_nether_brick_3",
+        "mns:warped_dome",
+        "mns:warped_house",
+        "mns:warped_pool"
+      ]
+    },
+    {
+      "tagId": "moogs_structures:no_delta",
+      "displayName": "#No Delta",
+      "structureIds": [
+        "mns:bridge_1",
+        "mns:bridge_2",
+        "mns:bridge_3",
+        "mns:bridge_4",
+        "mns:bridge_5",
+        "mns:bridge_6",
+        "mns:circle_blackstone",
+        "mns:circle_nether_brick",
+        "mns:copper_tower",
+        "mns:crimson_forge",
+        "mns:crimson_lava_well",
+        "mns:dragon_arena",
+        "mns:giant_skull",
+        "mns:grave_yard",
+        "mns:large_arena",
+        "mns:large_blackstone_pillars",
+        "mns:large_blackstone_walls",
+        "mns:large_house_1",
+        "mns:large_nether_brick",
+        "mns:lava_pool",
+        "mns:leafy_rubble",
+        "mns:medium_blackstone",
+        "mns:medium_crimson_fungus",
+        "mns:medium_crimson_fungus_2",
+        "mns:medium_crimson_well",
+        "mns:medium_house",
+        "mns:medium_house_2",
+        "mns:medium_warped_fungus",
+        "mns:medium_warped_fungus_2",
+        "mns:medium_warped_well",
+        "mns:mega_fortress",
+        "mns:nether_tower",
+        "mns:nether_wart_farm",
+        "mns:ruined_portal",
+        "mns:sandy_skull",
+        "mns:shrine",
+        "mns:small_arena",
+        "mns:small_nether_brick",
+        "mns:smoking_shrine",
+        "mns:soul_fire",
+        "mns:sword",
+        "mns:train",
+        "mns:very_small_blackstone",
+        "mns:very_small_blackstone_2",
+        "mns:very_small_blackstone_3",
+        "mns:very_small_blackstone_4",
+        "mns:very_small_nether_brick",
+        "mns:very_small_nether_brick_2",
+        "mns:very_small_nether_brick_3",
+        "mns:warped_dome",
+        "mns:warped_house",
+        "mns:warped_pool"
+      ]
+    },
+    {
+      "tagId": "ctov:pillager_outpost",
+      "displayName": "#Pillager Outpost",
+      "structureIds": [
+        "minecraft:pillager_outpost",
+        "ctov:pillager_outpost_badlands",
+        "ctov:pillager_outpost_beach",
+        "ctov:pillager_outpost_dark_forest",
+        "ctov:pillager_outpost_desert",
+        "ctov:pillager_outpost_jungle",
+        "ctov:pillager_outpost_mountain",
+        "ctov:pillager_outpost_plains",
+        "ctov:pillager_outpost_savanna",
+        "ctov:pillager_outpost_snowy",
+        "ctov:pillager_outpost_swamp",
+        "ctov:pillager_outpost_taiga"
+      ]
+    },
+    {
+      "tagId": "create_ltab:plains",
+      "displayName": "#Plains",
+      "structureIds": [
+        "create_ltab:big_windmill",
+        "create_ltab:oak_house",
+        "create_ltab:railroad",
+        "create_ltab:thecastle"
+      ]
+    },
+    {
+      "tagId": "ctov:small_village",
+      "displayName": "#Small Village",
+      "structureIds": [
+        "ctov:small/village_beach",
+        "ctov:small/village_christmas",
+        "ctov:small/village_dark_forest",
+        "ctov:small/village_desert",
+        "ctov:small/village_desert_oasis",
+        "ctov:small/village_jungle",
+        "ctov:small/village_jungle_tree",
+        "ctov:small/village_mesa",
+        "ctov:small/village_mesa_fortified",
+        "ctov:small/village_mountain",
+        "ctov:small/village_mountain_alpine",
+        "ctov:small/village_mushroom",
+        "ctov:small/village_plains",
+        "ctov:small/village_plains_fortified",
+        "ctov:small/village_savanna",
+        "ctov:small/village_savanna_na",
+        "ctov:small/village_snowy_igloo",
+        "ctov:small/village_swamp",
+        "ctov:small/village_swamp_fortified",
+        "ctov:small/village_taiga",
+        "ctov:small/village_taiga_fortified"
+      ]
+    },
+    {
+      "tagId": "ctov:village",
+      "displayName": "#Village",
+      "structureIds": [
+        "ctov:large/village_beach",
+        "ctov:large/village_christmas",
+        "ctov:large/village_dark_forest",
+        "ctov:large/village_desert",
+        "ctov:large/village_desert_oasis",
+        "ctov:large/village_jungle",
+        "ctov:large/village_jungle_tree",
+        "ctov:large/village_mesa",
+        "ctov:large/village_mesa_fortified",
+        "ctov:large/village_mountain",
+        "ctov:large/village_mountain_alpine",
+        "ctov:large/village_mushroom",
+        "ctov:large/village_plains",
+        "ctov:large/village_plains_fortified",
+        "ctov:large/village_savanna",
+        "ctov:large/village_savanna_na",
+        "ctov:large/village_snowy_igloo",
+        "ctov:large/village_swamp",
+        "ctov:large/village_swamp_fortified",
+        "ctov:large/village_taiga",
+        "ctov:large/village_taiga_fortified",
+        "ctov:medium/village_beach",
+        "ctov:medium/village_christmas",
+        "ctov:medium/village_dark_forest",
+        "ctov:medium/village_desert",
+        "ctov:medium/village_desert_oasis",
+        "ctov:medium/village_jungle",
+        "ctov:medium/village_jungle_tree",
+        "ctov:medium/village_mesa",
+        "ctov:medium/village_mesa_fortified",
+        "ctov:medium/village_mountain",
+        "ctov:medium/village_mountain_alpine",
+        "ctov:medium/village_mushroom",
+        "ctov:medium/village_plains",
+        "ctov:medium/village_plains_fortified",
+        "ctov:medium/village_savanna",
+        "ctov:medium/village_savanna_na",
+        "ctov:medium/village_snowy_igloo",
+        "ctov:medium/village_swamp",
+        "ctov:medium/village_swamp_fortified",
+        "ctov:medium/village_taiga",
+        "ctov:medium/village_taiga_fortified",
+        "ctov:small/village_beach",
+        "ctov:small/village_christmas",
+        "ctov:small/village_dark_forest",
+        "ctov:small/village_desert",
+        "ctov:small/village_desert_oasis",
+        "ctov:small/village_jungle",
+        "ctov:small/village_jungle_tree",
+        "ctov:small/village_mesa",
+        "ctov:small/village_mesa_fortified",
+        "ctov:small/village_mountain",
+        "ctov:small/village_mountain_alpine",
+        "ctov:small/village_mushroom",
+        "ctov:small/village_plains",
+        "ctov:small/village_plains_fortified",
+        "ctov:small/village_savanna",
+        "ctov:small/village_savanna_na",
+        "ctov:small/village_snowy_igloo",
+        "ctov:small/village_swamp",
+        "ctov:small/village_swamp_fortified",
+        "ctov:small/village_taiga",
+        "ctov:small/village_taiga_fortified"
+      ]
+    },
+    {
+      "tagId": "ctov:village_beach",
+      "displayName": "#Village Beach",
+      "structureIds": [
+        "ctov:large/village_beach",
+        "ctov:medium/village_beach",
+        "ctov:small/village_beach"
+      ]
+    },
+    {
+      "tagId": "ctov:village_christmas",
+      "displayName": "#Village Christmas",
+      "structureIds": [
+        "ctov:large/village_christmas",
+        "ctov:medium/village_christmas",
+        "ctov:small/village_christmas"
+      ]
+    },
+    {
+      "tagId": "ctov:village_dark_forest",
+      "displayName": "#Village Dark Forest",
+      "structureIds": [
+        "ctov:large/village_dark_forest",
+        "ctov:medium/village_dark_forest",
+        "ctov:small/village_dark_forest"
+      ]
+    },
+    {
+      "tagId": "ctov:village_desert",
+      "displayName": "#Village Desert",
+      "structureIds": [
+        "ctov:large/village_desert",
+        "ctov:medium/village_desert",
+        "ctov:small/village_desert"
+      ]
+    },
+    {
+      "tagId": "ctov:village_desert_oasis",
+      "displayName": "#Village Desert Oasis",
+      "structureIds": [
+        "ctov:large/village_desert_oasis",
+        "ctov:medium/village_desert_oasis",
+        "ctov:small/village_desert_oasis"
+      ]
+    },
+    {
+      "tagId": "ctov:village_jungle",
+      "displayName": "#Village Jungle",
+      "structureIds": [
+        "ctov:large/village_jungle",
+        "ctov:medium/village_jungle",
+        "ctov:small/village_jungle"
+      ]
+    },
+    {
+      "tagId": "ctov:village_jungle_tree",
+      "displayName": "#Village Jungle Tree",
+      "structureIds": [
+        "ctov:large/village_jungle_tree",
+        "ctov:medium/village_jungle_tree",
+        "ctov:small/village_jungle_tree"
+      ]
+    },
+    {
+      "tagId": "ctov:village_mesa",
+      "displayName": "#Village Mesa",
+      "structureIds": [
+        "ctov:large/village_mesa",
+        "ctov:medium/village_mesa",
+        "ctov:small/village_mesa"
+      ]
+    },
+    {
+      "tagId": "ctov:village_mesa_fortified",
+      "displayName": "#Village Mesa Fortified",
+      "structureIds": [
+        "ctov:large/village_mesa_fortified",
+        "ctov:medium/village_mesa_fortified",
+        "ctov:small/village_mesa_fortified"
+      ]
+    },
+    {
+      "tagId": "ctov:village_mountain",
+      "displayName": "#Village Mountain",
+      "structureIds": [
+        "ctov:large/village_mountain",
+        "ctov:medium/village_mountain",
+        "ctov:small/village_mountain"
+      ]
+    },
+    {
+      "tagId": "ctov:village_mountain_alpine",
+      "displayName": "#Village Mountain Alpine",
+      "structureIds": [
+        "ctov:large/village_mountain_alpine",
+        "ctov:medium/village_mountain_alpine",
+        "ctov:small/village_mountain_alpine"
+      ]
+    },
+    {
+      "tagId": "ctov:village_mushroom",
+      "displayName": "#Village Mushroom",
+      "structureIds": [
+        "ctov:large/village_mushroom",
+        "ctov:medium/village_mushroom",
+        "ctov:small/village_mushroom"
+      ]
+    },
+    {
+      "tagId": "ctov:village_plains",
+      "displayName": "#Village Plains",
+      "structureIds": [
+        "ctov:large/village_plains",
+        "ctov:medium/village_plains",
+        "ctov:small/village_plains"
+      ]
+    },
+    {
+      "tagId": "ctov:village_plains_fortified",
+      "displayName": "#Village Plains Fortified",
+      "structureIds": [
+        "ctov:large/village_plains_fortified",
+        "ctov:medium/village_plains_fortified",
+        "ctov:small/village_plains_fortified"
+      ]
+    },
+    {
+      "tagId": "ctov:village_savanna",
+      "displayName": "#Village Savanna",
+      "structureIds": [
+        "ctov:large/village_savanna",
+        "ctov:medium/village_savanna",
+        "ctov:small/village_savanna"
+      ]
+    },
+    {
+      "tagId": "ctov:village_savanna_na",
+      "displayName": "#Village Savanna Na",
+      "structureIds": [
+        "ctov:large/village_savanna_na",
+        "ctov:medium/village_savanna_na",
+        "ctov:small/village_savanna_na"
+      ]
+    },
+    {
+      "tagId": "ctov:village_snowy",
+      "displayName": "#Village Snowy",
+      "structureIds": [
+        "ctov:large/village_snowy_igloo",
+        "ctov:medium/village_snowy_igloo",
+        "ctov:small/village_snowy_igloo"
+      ]
+    },
+    {
+      "tagId": "ctov:village_swamp",
+      "displayName": "#Village Swamp",
+      "structureIds": [
+        "ctov:large/village_swamp",
+        "ctov:medium/village_swamp",
+        "ctov:small/village_swamp"
+      ]
+    },
+    {
+      "tagId": "ctov:village_swamp_fortified",
+      "displayName": "#Village Swamp Fortified",
+      "structureIds": [
+        "ctov:large/village_swamp_fortified",
+        "ctov:medium/village_swamp_fortified",
+        "ctov:small/village_swamp_fortified"
+      ]
+    },
+    {
+      "tagId": "ctov:village_taiga",
+      "displayName": "#Village Taiga",
+      "structureIds": [
+        "ctov:large/village_taiga",
+        "ctov:medium/village_taiga",
+        "ctov:small/village_taiga"
+      ]
+    },
+    {
+      "tagId": "ctov:village_taiga_fortified",
+      "displayName": "#Village Taiga Fortified",
+      "structureIds": [
+        "ctov:large/village_taiga_fortified",
+        "ctov:medium/village_taiga_fortified",
+        "ctov:small/village_taiga_fortified"
+      ]
+    },
+    {
+      "tagId": "ctov:village_underground",
+      "displayName": "#Village Underground",
+      "structureIds": [
+        "ctov:large/village_underground",
+        "ctov:medium/village_underground",
+        "ctov:small/village_underground"
+      ]
+    }
+  ]
+}

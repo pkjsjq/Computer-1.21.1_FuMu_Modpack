@@ -1,0 +1,16 @@
+{
+  "gui.xaero_instant_waypoint": {
+    "keyCode": 78,
+    "keyType": "KEYBOARD",
+    "alt": false,
+    "shift": true,
+    "ctrl": false
+  },
+  "key.roadweaver.open_map": {
+    "keyCode": 72,
+    "keyType": "KEYBOARD",
+    "alt": false,
+    "shift": true,
+    "ctrl": false
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "enableHud": true,
+  "enableTaskBook": true,
+  "enableSoundEffects": true,
+  "maxTasksPerPlayer": 100,
+  "autoSave": true,
+  "autoSaveIntervalMinutes": 5,
+  "defaultPriority": "MEDIUM",
+  "enableTaskRewards": false,
+  "defaultPersonalProjectInitialized": true,
+  // commandAccessMode 说明：
+  // OP_ONLY：仅 OP 可用所有命令
+  // VIEW_ONLY：普通玩家仅可使用查看类命令，编辑类仍需 OP
+  // FULL：普通玩家可使用查看/编辑类命令（不建议公共服务器）
+  "commandAccessMode": "OP_ONLY",
+  "gui": {
+    "guiWidth": 500,
+    "guiHeight": 400,
+    "taskListY": 30,
+    "taskItemHeight": 25,
+    "inputFieldYOffset": -50,
+    "priorityFieldWidth": 100,
+    "titleFieldWidth": 200,
+    "descFieldWidth": 280,
+    "buttonHeight": 20,
+    "saveButtonYOffset": -30,
+    "completeButtonYOffset": -85,
+    "backgroundColor": -2013265920,
+    "selectedBackgroundColor": -11184811,
+    "hoveredBackgroundColor": -13421773,
+    "borderColor": -12632257,
+    "padding": 10,
+    "elementSpacing": 5,
+    "buttonSpacing": 5,
+    "enableDarkTheme": false,
+    "showCompletedTasks": true,
+    "sortByPriority": false,
+    "hudPosition": "TOP_RIGHT",
+    "hudWidth": 150,
+    "hudMaxHeight": 400,
+    "hudTodoLimit": 5,
+    "hudDoneLimit": 5,
+    "hudDefaultExpanded": true,
+    "hudOpacity": 0.1,
+    "hudUseCustomPosition": true,
+    "hudCustomX": 330,
+    "hudCustomY": 62,
+    "hudCustomHorizontalAnchor": "RIGHT",
+    "hudCustomVerticalAnchor": "TOP",
+    "hudCustomHorizontalMargin": 0,
+    "hudCustomVerticalMargin": 62,
+    "hudShowWhenEmpty": false,
+    "hudDefaultView": "TEAM_UNASSIGNED",
+    "hudProjectSource": "ALL",
+    "hudStarredProjectIds": [],
+    "lastActiveProjectIdsByNamespace": {
+      "local": "default-personal-project",
+      "server_frp-top.com_32827": "default-team-project"
+    },
+    "projectSidebarWidth": 100
+  }
+}

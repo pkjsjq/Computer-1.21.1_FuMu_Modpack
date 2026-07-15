@@ -1,0 +1,5 @@
+# Default: 4
+# Range: 0 ~ 20
+delay_ticks = 4
+first_time_trigger = false
+notify_on_disabling_delay = true
