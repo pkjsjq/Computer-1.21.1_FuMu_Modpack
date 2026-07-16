@@ -1,7 +1,7 @@
 {
   "name": "【电脑版】1.21.1_浮木创意所",
   "author": "LiFrom",
-  "version": "2026.7.15",
+  "version": "2026.7.16",
   "description": "",
   "fileApi": "https://ghfast.top/https://raw.githubusercontent.com/pkjsjq/Computer-1.21.1_FuMu_Modpack/refs/heads/main",
   "files": [
@@ -15432,7 +15432,7 @@
   ],
   "addons": [
     {
-      "id": "minecraft",
+      "id": "game",
       "version": "1.21.1"
     },
     {
