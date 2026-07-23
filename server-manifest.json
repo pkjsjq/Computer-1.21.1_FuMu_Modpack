@@ -1,7 +1,7 @@
 {
   "name": "【电脑版】1.21.1_浮木创意所",
   "author": "LiFrom",
-  "version": "2026.7.16",
+  "version": "2026.7.23",
   "description": "",
   "fileApi": "https://ghfast.top/https://raw.githubusercontent.com/pkjsjq/Computer-1.21.1_FuMu_Modpack/refs/heads/main",
   "files": [
@@ -411,7 +411,7 @@
     },
     {
       "path": "config/emi.css",
-      "hash": "ce0fedbfa2556c8c1f1e320eb82af032ba81e8c3"
+      "hash": "7c5135a0715e70e022a3b7347702375acb1d00cb"
     },
     {
       "path": "config/enchdesc.json",
@@ -543,7 +543,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "855183edeb15fbd4242d611c25fc6ece7ab11948"
+      "hash": "8115740f44eb92f249d53fa31ba88bdf6312a858"
     },
     {
       "path": "config/ixeris.toml",
@@ -710,6 +710,10 @@
       "hash": "ea4648f60613f7140fc3d47f238c7fb3ff5b95ae"
     },
     {
+      "path": "config/NotEnoughBandwidthLegacyConfig.json",
+      "hash": "e52fbf0ae01480af0429610512daf05925c00ead"
+    },
+    {
       "path": "config/offroad-server.toml",
       "hash": "ffcf430144dfb7acb9839fdfcc7cc97bc2922365"
     },
@@ -823,23 +827,23 @@
     },
     {
       "path": "config/screenshot_viewer-client-1.toml.bak",
-      "hash": "75908992577f7211f3dfda7ad45cd9131ce656ca"
+      "hash": "09a292d74ea73ca3a69305ef1b31ed9ed5598570"
     },
     {
       "path": "config/screenshot_viewer-client-2.toml.bak",
-      "hash": "75908992577f7211f3dfda7ad45cd9131ce656ca"
+      "hash": "09a292d74ea73ca3a69305ef1b31ed9ed5598570"
     },
     {
       "path": "config/screenshot_viewer-client-3.toml.bak",
-      "hash": "75908992577f7211f3dfda7ad45cd9131ce656ca"
+      "hash": "09a292d74ea73ca3a69305ef1b31ed9ed5598570"
     },
     {
       "path": "config/screenshot_viewer-client-4.toml.bak",
-      "hash": "75908992577f7211f3dfda7ad45cd9131ce656ca"
+      "hash": "09a292d74ea73ca3a69305ef1b31ed9ed5598570"
     },
     {
       "path": "config/screenshot_viewer-client-5.toml.bak",
-      "hash": "75908992577f7211f3dfda7ad45cd9131ce656ca"
+      "hash": "09a292d74ea73ca3a69305ef1b31ed9ed5598570"
     },
     {
       "path": "config/screenshot_viewer-client.toml",
@@ -959,11 +963,11 @@
     },
     {
       "path": "config/todolist.json",
-      "hash": "04a3a1642c931033425e3b521f96c7de0debcac6"
+      "hash": "62879590614d2e5d2b4aafd4f1f621f0a36bca10"
     },
     {
       "path": "config/todolist.json.bak",
-      "hash": "04c70dea2dffcf16009fa4f371069619d2b6ea8b"
+      "hash": "2f18adb3daf7648765501f57ebe7cfdfccd5a07a"
     },
     {
       "path": "config/trade_cycling-client.toml",
@@ -1003,7 +1007,7 @@
     },
     {
       "path": "config/tweakeroo.json",
-      "hash": "0abce3259dd3cc55884b342ea83ae1b42c924cb3"
+      "hash": "8a97431d75e02bf11f9f88762e9876754805a5d9"
     },
     {
       "path": "config/universalenchants-server.toml",
@@ -1071,7 +1075,7 @@
     },
     {
       "path": "config/asyncparticles/asyncparticles-mixin.properties",
-      "hash": "51fa0e1ede95ba5758d9ab6038eda9eace957e42"
+      "hash": "fb0e6634a9ebc6abff60c482521a993bd790cdfe"
     },
     {
       "path": "config/asyncparticles/asyncparticles.json",
@@ -1099,7 +1103,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "9f7b26774ba705a14de39f6c95f7fd6299a6b174"
+      "hash": "dfaf52872eca1e677036b22b831726676985b21e"
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
@@ -1719,7 +1723,7 @@
     },
     {
       "path": "config/CSC/Log/CSC_Record.log",
-      "hash": "fb169a02941f958dcf87bd533fa6ee380ad01c4d"
+      "hash": "ff9c076b94e28d199501c8e14c98a0ded5bcda11"
     },
     {
       "path": "defaultconfigs/solcarrot-server.toml",
@@ -2338,10 +2342,6 @@
       "hash": "7744c5b02427572f7154d6f851507544fd9404d2"
     },
     {
-      "path": "mods/nebl-21.1.09-neoforge+1.21.1.jar",
-      "hash": "69b4d3a207d7a260e6edc1344fa82a419dd3e200"
-    },
-    {
       "path": "mods/netmusic-1.5.1-neoforge+mc1.21.1.jar",
       "hash": "2cfbef4586208b5a91bdeef75d7e3bc19a820d07"
     },
@@ -2426,8 +2426,8 @@
       "hash": "ec2e4996f8bee8714173e603e379fef8a6901765"
     },
     {
-      "path": "mods/roadweaver-neoforge-2.2.2-1.21.1.jar",
-      "hash": "2266f19e55c6bb5ac698aebfb2e05e81eb58770d"
+      "path": "mods/roadweaver-neoforge-2.3.0-1.21.1.jar",
+      "hash": "4cb7ef033566487cceef99b3c677536552f31a9c"
     },
     {
       "path": "mods/sable-android-support-neoforge-1.21.1-1.2.0.jar",
@@ -2600,6 +2600,10 @@
     {
       "path": "mods/【‘移除了与lux的不兼容提示】sable-neoforge-1.21.1-1.2.2.jar",
       "hash": "5e574c4b0d7d89210f98b0576ac8a62d1d5bd139"
+    },
+    {
+      "path": "mods/【添加了原版MC支持】nebl-21.1.09-neoforge+1.21.1.jar",
+      "hash": "610602572dde5b52b38c936ebc3f1bffe02314ef"
     },
     {
       "path": "mods/.connector/continuity-3.0.0+1.21.neoforge_mapped_moj_1.21.1.jar",
@@ -15431,7 +15435,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "7474f33f0004446a8ede765d8f3aeef6040ce7c8"
+      "hash": "576d2f20d807121edd603f239d74e64f096e940f"
     }
   ],
   "addons": [

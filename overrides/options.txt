@@ -13,6 +13,7 @@ glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:true
+gamma:0.5
 graphicsMode:1
 guiScale:0
 maxFps:260
@@ -47,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources","fabric","tacz_resources","file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","file/CozyUI+_v1.8.zip","short_grass:shorter_grass","file/§9RAY\u0027s_§f3D_§6Rails§8§o§k.zip","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["serilum_mod_translations","vanilla","mod_resources","fabric","tacz_resources","file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","file/CozyUI+_v1.8.zip","short_grass:shorter_grass","file/§9RAY\u0027s_§f3D_§6Rails§8§o§k.zip","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
@@ -135,6 +136,7 @@ key_key.handheldmoon.lamp_switch.desc:key.keyboard.v
 key_key.curios.open.desc:key.keyboard.unknown
 key_key.jetpack.toggle_active.description:key.keyboard.g
 key_key.jetpack.toggle_hover.description:key.keyboard.h
+key_key.nebl.stat_screen:key.keyboard.f8:ALT
 key_key.searchonmcmod.search_on_mcmod:key.keyboard.b
 key_key.searchonmcmod.copy_item_name:key.keyboard.unknown
 key_key.kiwi.builders_button2:key.keyboard.unknown
@@ -212,13 +214,12 @@ key_simulated.keyinfo.rotate_mode:key.keyboard.tab
 key_simulated.keyinfo.scroll_up:key.keyboard.unknown
 key_simulated.keyinfo.scroll_down:key.keyboard.unknown
 key_key.todolist.open:key.keyboard.equal
-key_key.todolist.togglehud:key.keyboard.minus
-key_key.todolist.togglehudvisibility:key.keyboard.unknown
+key_key.todolist.togglehud:key.keyboard.unknown
+key_key.todolist.togglehudvisibility:key.keyboard.minus
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
 key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.vanillazoom.togglezoom.desc:key.keyboard.x
-key_key.bridgingmod.toggle_bridging:key.keyboard.comma
 key_key.clickthrough.toggle:key.keyboard.unknown
 key_chunkloaders.keys.open_screen:key.keyboard.comma
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt

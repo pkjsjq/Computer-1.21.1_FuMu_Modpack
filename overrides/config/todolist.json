@@ -43,7 +43,7 @@
     "hudDefaultExpanded": true,
     "hudOpacity": 0.1,
     "hudUseCustomPosition": true,
-    "hudCustomX": 330,
+    "hudCustomX": 410,
     "hudCustomY": 62,
     "hudCustomHorizontalAnchor": "RIGHT",
     "hudCustomVerticalAnchor": "TOP",
