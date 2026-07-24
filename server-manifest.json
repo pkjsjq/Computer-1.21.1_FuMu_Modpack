@@ -1,7 +1,7 @@
 {
   "name": "【电脑版】1.21.1_浮木创意所",
   "author": "LiFrom",
-  "version": "2026.7.23",
+  "version": "2026.7.24",
   "description": "",
   "fileApi": "https://ghfast.top/https://raw.githubusercontent.com/pkjsjq/Computer-1.21.1_FuMu_Modpack/refs/heads/main",
   "files": [
@@ -2426,8 +2426,8 @@
       "hash": "ec2e4996f8bee8714173e603e379fef8a6901765"
     },
     {
-      "path": "mods/roadweaver-neoforge-2.3.0-1.21.1.jar",
-      "hash": "4cb7ef033566487cceef99b3c677536552f31a9c"
+      "path": "mods/roadweaver-neoforge-2.2.2-1.21.1.jar",
+      "hash": "2266f19e55c6bb5ac698aebfb2e05e81eb58770d"
     },
     {
       "path": "mods/sable-android-support-neoforge-1.21.1-1.2.0.jar",
