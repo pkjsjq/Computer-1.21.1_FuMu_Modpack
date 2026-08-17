@@ -13,6 +13,14 @@
   // VIEW_ONLY：普通玩家仅可使用查看类命令，编辑类仍需 OP
   // FULL：普通玩家可使用查看/编辑类命令（不建议公共服务器）
   "commandAccessMode": "OP_ONLY",
+  // storageBackend 说明：
+  // nbt：已废弃的旧版文件存储，配置将被忽略并强制使用 h2
+  // h2：H2 数据库存储（强制使用，唯一支持的存储模式）
+  "storageBackend": "h2",
+  // h2BackupOnStart 说明：
+  // false：启动时不创建 H2 备份
+  // true：启动初始化 H2 后自动创建一次备份（仅在 storageBackend 为 h2 时生效）
+  "h2BackupOnStart": false,
   "gui": {
     "guiWidth": 500,
     "guiHeight": 400,
@@ -50,12 +58,13 @@
     "hudCustomHorizontalMargin": 0,
     "hudCustomVerticalMargin": 62,
     "hudShowWhenEmpty": false,
+    "hudShowSubtasks": true,
     "hudDefaultView": "PERSONAL",
     "hudProjectSource": "ALL",
     "hudStarredProjectIds": [],
     "lastActiveProjectIdsByNamespace": {
       "local": "default-personal-project",
-      "server_frp-top.com_32827": "default-team-project"
+      "server_frp-top.com_32827": "default-personal-project"
     },
     "projectSidebarWidth": 100
   }

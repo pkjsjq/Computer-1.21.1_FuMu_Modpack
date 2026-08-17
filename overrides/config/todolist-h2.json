@@ -1,0 +1,17 @@
+{
+  "tcpEnabled": false,
+  "bindAddress": "127.0.0.1",
+  "port": 9092,
+  "autoIncrementPort": true,
+  "maxPortAttempts": 16,
+  "allowRemote": false,
+  "databasePathOverride": "",
+  "accounts": {
+    "adminUser": "todo_admin",
+    "adminPassword": "NtQOXaokVLwnRiYs_yt-v-XlTjDZZDh-",
+    "readonlyUser": "todo_readonly",
+    "readonlyPassword": "4Lm8hMbfVj42MIc0mNESmbfyzoNOaK5p",
+    "readwriteUser": "todo_readwrite",
+    "readwritePassword": "r8PHPJYeWx0h1PsqQjEQIBbsLtJewVMd"
+  }
+}

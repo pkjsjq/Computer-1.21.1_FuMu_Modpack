@@ -17,3 +17,9 @@ guiSwapEnabled = false
 emptySlotSwapEnabled = false
 #Debug Logging
 debug = false
+#Before swapping, stash the held item into an empty hotbar slot first if available
+hotbarPriorityEnabled = false
+#In survival inventory, show arrow icons on the left to swap entire rows with the hotbar
+rowSwapEnabled = true
+#Show action bar toast messages (warnings only)
+toastEnabled = true
